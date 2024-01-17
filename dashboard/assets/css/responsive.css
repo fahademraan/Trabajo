@@ -1,0 +1,109 @@
+@media (max-width:1920px) {
+    .left-menu {
+        overflow-y: scroll;
+    }
+}
+
+@media(max-width:1300px) {
+    .info-box {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width:999px) {
+    .custom-offcanvas {
+        height: 900px;
+    }
+
+    .upper-header {
+        padding: 1rem .3rem;
+    }
+
+    .heght-custom {
+        height: max-content;
+
+    }
+
+    .heaght {
+        height: max-content;
+    }
+
+    .user-profile i {
+        font-size: 20px;
+    }
+}
+
+@media(max-width:768px) {
+    .left-menu {
+        height: 800px;
+    }
+
+    .perfil-content .row {
+        height: max-content;
+    }
+
+    .perfil-register-btn {
+        width: max-content;
+    }
+
+    .perfil-tabs ul li {
+        width: 100%;
+    }
+
+    .perfil-tabs ul li button {
+        width: 100%;
+    }
+
+    #pills-fisica-tab {
+        border-radius: 6px !important;
+    }
+
+    #pills-moral-tab {
+        border-radius: 6px !important;
+    }
+}
+
+@media (max-width:400px) {
+    .monitoreo-height {
+        height: max-content;
+    }
+
+    .h-345 {
+        height: max-content;
+    }
+
+    .monti-height {
+        height: max-content;
+    }
+
+    .aliados-height {
+        height: max-content;
+    }
+
+    .detail-row {
+        height: 210px !important;
+    }
+
+    .heght-custom2 {
+        height: 415px;
+    }
+
+    .perfil2-form-btn {
+        justify-content: center;
+    }
+
+    .custom-offcanvas {
+        height: 650px;
+    }
+
+    .hover-popup {
+        top: -9.5rem;
+        left: 50%;
+        transform: translateX(-100%);
+    }
+
+    .full-width-chart-img {
+        padding: 1px 5px;
+    }
+}
